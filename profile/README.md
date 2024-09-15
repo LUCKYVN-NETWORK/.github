@@ -20,7 +20,7 @@
 - 🔩 <a href="https://github.com/dathuyn">DatxCute</a>: Developer - Manager of Media Team
 
 <h2 align="center">Our (currently public) Projects 🛠️</h2>
-<h4 align="center">🟢 Actively being updated | 🟠 Rarely updated | 🔴 Discontinued</h4>
+<h4 align="center">🟢 Actively updated | 🟠 Rarely updated | 🔴 Discontinued</h4>
 
 ---
 
