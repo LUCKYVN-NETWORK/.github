@@ -50,10 +50,12 @@
 
 You can contact us through our staff members or via our communities
 
-- <a href="https://www.facebook.com/groups/MCLuckyVN">Our Facebook Group</a>: MCLuckyVN (luckyvn.com) - Send a form to request approval to join.
+<h3 align="center">🔔 Our Facebook Group | <a href="https://www.facebook.com/groups/MCLuckyVN">MCLuckyVN (luckyvn.com)</a></h3>
 
-- <a href="https://discord.gg/luckyvn">
-         <img alt="LUCKYVN NETWORK OFFICIAL DISCORD" src="https://discord.com/api/guilds/684293554918391815/widget.png?style=banner2">
-</a>
+<p align="center">
+  <a href="https://discord.gg/luckyvn">
+    <img alt="LUCKYVN NETWORK OFFICIAL DISCORD" src="https://discord.com/api/guilds/684293554918391815/widget.png?style=banner2">
+  </a>
+</p>
 
 <h3 align="center">Join us in on the fun at <a href="https://luckyvn.com">luckyvn.com</a> :3</h3>
