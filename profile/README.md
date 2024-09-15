@@ -46,4 +46,4 @@ You can contact us through our staff members or via our communities
          <img alt="LUCKYVN NETWORK OFFICIAL DISCORD" src="https://discord.com/api/guilds/684293554918391815/widget.png?style=banner2">
 </a>
 
-<h3 align="center">Join us in on the fun at <a href="https://luckyvn.com">luckyvn.com :3</a>.</h3>
+<h3 align="center">Join us in on the fun at <a href="https://luckyvn.com">luckyvn.com</a> :3</h3>
