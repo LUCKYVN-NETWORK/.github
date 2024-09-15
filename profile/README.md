@@ -27,6 +27,10 @@
 
 - <a href="https://github.com/LUCKYVN-NETWORK/HyperFarming">HyperFarming</a>: Crops storage system made for Paper/Spigot servers 🟢
 
+- <a href="https://github.com/LUCKYVN-NETWORK/NodeGuard">HyperFarming</a>: Asynchronous server monitoring made for Paper/Spigot servers 🟢
+
+- <a href="https://github.com/LUCKYVN-NETWORK/GhostTweak">HyperFarming</a>: Offline player's Inventory/EnderChest editor for Paper/Spigot servers 🟢
+
 <h2 align="center">Special Thanks To ❤️</h2>
 
 <div align="center">
