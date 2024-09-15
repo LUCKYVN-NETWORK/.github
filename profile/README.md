@@ -39,11 +39,21 @@
 <h2 align="center">Special Thanks To ❤️</h2>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/7608950?s=200&v=4" alt="PaperMC" width="120"/>
-  <img src="https://avatars.githubusercontent.com/u/4350249?s=200&v=4" alt="SpigotMC" width="120"/>
-  <img src="https://avatars.githubusercontent.com/u/94729614?s=200&v=4" alt="PurpurMC" width="120"/>
-  <img src="https://avatars.githubusercontent.com/u/16179146?s=200&v=4" alt="Pterodactyl" width="120"/>
-  <img src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" alt="JetBrains" width="120"/>
+  <a href="https://github.com/PaperMC">
+    <img src="https://avatars.githubusercontent.com/u/7608950?s=200&v=4" alt="PaperMC" width="120"/>
+  </a>
+  <a href="https://github.com/SpigotMC">
+    <img src="https://avatars.githubusercontent.com/u/4350249?s=200&v=4" alt="SpigotMC" width="120"/>
+  </a>
+  <a href="https://github.com/PurpurMC">
+    <img src="https://avatars.githubusercontent.com/u/94729614?s=200&v=4" alt="PurpurMC" width="120"/>
+  </a>
+  <a href="https://github.com/Pterodactyl">
+    <img src="https://avatars.githubusercontent.com/u/16179146?s=200&v=4" alt="Pterodactyl" width="120"/>
+  </a>
+  <a href="https://github.com/JetBrains">
+    <img src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" alt="JetBrains" width="120"/>
+  </a>
 </div>
 
 <h2 align="center">Contact Us ✉️</h2>
