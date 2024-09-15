@@ -17,19 +17,24 @@
 
 - 🌀 <a href="https://github.com/emnoigi1452">StellarSeal_</a>: Head developer of LuckyVN's Skyblock/Survival projects / Java-related tools.
 
-- 🔩 <a href="https://github.com/dathuyn">DatxCute</a>: Developer in charge of LuckyVN's survival projects
+- 🔩 <a href="https://github.com/dathuyn">DatxCute</a>: Developer - Manager of Media Team
 
 <h2 align="center">Our (currently public) Projects 🛠️</h2>
+<h4 align="center">🟢 Actively being updated | 🟠 Rarely updated | 🔴 Discontinued</h4>
 
-- <a href="https://github.com/LUCKYVN-NETWORK/AddressLocker">AddressLocker</a>: Legacy system to block proxies / VPNs (discontinued) 🔴
+---
 
-- <a href="https://github.com/LUCKYVN-NETWORK/HyperHook">HyperHook</a>: Discord Bot to connect with ingame mineral storage system (Skyblock) 🟢
+- <a href="https://github.com/LUCKYVN-NETWORK/AddressLocker">AddressLocker</a>: VPN/proxy blocker made for LuckyVN's BedWWars project. 🔴
+
+- <a href="https://github.com/LUCKYVN-NETWORK/HyperHook">HyperHook</a>: Discord application to connect with ingame mineral storage system (Skyblock) 🟢
 
 - <a href="https://github.com/LUCKYVN-NETWORK/HyperFarming">HyperFarming</a>: Crops storage system made for Paper/Spigot servers 🟢
 
-- <a href="https://github.com/LUCKYVN-NETWORK/NodeGuard">HyperFarming</a>: Asynchronous server monitoring made for Paper/Spigot servers 🟢
+- <a href="https://github.com/LUCKYVN-NETWORK/NodeGuard">NodeGuard</a>: Asynchronous server monitoring made for Paper/Spigot servers 🟢
 
-- <a href="https://github.com/LUCKYVN-NETWORK/GhostTweak">HyperFarming</a>: Offline player's Inventory/EnderChest editor for Paper/Spigot servers 🟢
+- <a href="https://github.com/LUCKYVN-NETWORK/GhostTweak">GhostTweak</a>: Offline player's Inventory/EnderChest editor for Paper/Spigot servers 🟠
+
+---
 
 <h2 align="center">Special Thanks To ❤️</h2>
 
