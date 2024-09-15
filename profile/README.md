@@ -34,6 +34,7 @@
   <img src="https://avatars.githubusercontent.com/u/4350249?s=200&v=4" alt="SpigotMC" width="120"/>
   <img src="https://avatars.githubusercontent.com/u/94729614?s=200&v=4" alt="PurpurMC" width="120"/>
   <img src="https://avatars.githubusercontent.com/u/16179146?s=200&v=4" alt="Pterodactyl" width="120"/>
+  <img src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" alt="JetBrains" width="120"/>
 </div>
 
 <h2 align="center">Contact Us ✉️</h2>
