@@ -2,7 +2,7 @@
 <h3 align="center">The repository of all active projects in <a href="https://luckyvn.com">LuckyVN</a></h3>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1160475419640868894/1284734540773851221/421110521_1641118110029718_1764571312096534042_n.png?ex=66e7b5c7&is=66e66447&hm=fc7eafa2835bf915663ae1b1e6de1d5c7b52a880999ef618c7e43ccdaf4baab3&" alt="LuckyVN" style="width: 75%;" />
+  <img src="https://i.imgur.com/fLQKu45.png" alt="LuckyVN" style="width: 75%;" />
 </p>
 
 - This is the main repository containing the source code to all active projects in the LuckyVN network.
