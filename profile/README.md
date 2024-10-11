@@ -2,7 +2,7 @@
 <h3 align="center">The repository of all active projects in <a href="https://luckyvn.com">LuckyVN</a></h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/fLQKu45.png" alt="LuckyVN" style="width: 75%;" />
+  <img src="https://i.imgur.com/fLQKu45.png" alt="LuckyVN" style="width: 50%;" />
 </p>
 
 - This is the main repository containing the source code to all active projects in the LuckyVN network.
