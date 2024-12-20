@@ -48,6 +48,9 @@
   <a href="https://github.com/PurpurMC">
     <img src="https://avatars.githubusercontent.com/u/94729614?s=200&v=4" alt="PurpurMC" width="120"/>
   </a>
+  <a href="https://github.com/Winds-Studio/Leaf">
+    <img src="https://raw.githubusercontent.com/Winds-Studio/Leaf/refs/heads/ver/1.21.1/public/image/leaf_logo.png" alt="Leaf" width="120"/>
+  </a>
   <a href="https://github.com/Pterodactyl">
     <img src="https://avatars.githubusercontent.com/u/16179146?s=200&v=4" alt="Pterodactyl" width="120"/>
   </a>
