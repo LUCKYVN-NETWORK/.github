@@ -17,7 +17,7 @@
 
 - 🌀 <a href="https://github.com/emnoigi1452">StellarSeal_</a>: Head developer of LuckyVN's Skyblock/Survival projects / Java-related tools.
 
-- 🔩 <a href="https://github.com/dathuyn">DatxCute</a>: Developer - Manager of Media Team
+- 🔩 <a href="https://github.com/dathuyn">DatxCute</a>: Administrative, game designer for LuckyVN's MMO projects.
 
 <h2 align="center">Our (currently public) Projects 🛠️</h2>
 <h4 align="center">🟢 Actively updated | 🟠 Rarely updated | 🔴 Discontinued</h4>
