@@ -19,6 +19,8 @@
 
 - 🔩 <a href="https://github.com/dathuyn">DatxCute</a>: Administrative, game designer for LuckyVN's MMO projects.
 
+- 👾 <a href="https://github.com">wjexia</a>: Well-developed gameplay and balanced mechanics.
+
 <h2 align="center">Our (currently public) Projects 🛠️</h2>
 <h4 align="center">🟢 Actively updated | 🟠 Rarely updated | 🔴 Discontinued</h4>
 
