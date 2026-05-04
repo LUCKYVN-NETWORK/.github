@@ -21,21 +21,6 @@
 
 - 👾 <a href="https://github.com">wjexia</a>: Well-developed gameplay and balanced mechanics.
 
-<h2 align="center">Our (currently public) Projects 🛠️</h2>
-<h4 align="center">🟢 Actively updated | 🟠 Rarely updated | 🔴 Discontinued</h4>
-
----
-
-- <a href="https://github.com/LUCKYVN-NETWORK/AddressLocker">AddressLocker</a>: VPN/proxy blocker made for LuckyVN's BedWWars project. 🔴
-
-- <a href="https://github.com/LUCKYVN-NETWORK/HyperHook">HyperHook</a>: Discord application to connect with ingame mineral storage system (Skyblock) 🟢
-
-- <a href="https://github.com/LUCKYVN-NETWORK/HyperFarming">HyperFarming</a>: Crops storage system made for Paper/Spigot servers 🟢
-
-- <a href="https://github.com/LUCKYVN-NETWORK/NodeGuard">NodeGuard</a>: Asynchronous server monitoring made for Paper/Spigot servers 🟠
-
-- <a href="https://github.com/LUCKYVN-NETWORK/GhostTweak">GhostTweak</a>: Offline player's Inventory/EnderChest editor for Paper/Spigot servers 🟠
-
 ---
 
 <h2 align="center">Special Thanks To ❤️</h2>
