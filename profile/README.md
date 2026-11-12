@@ -19,7 +19,7 @@
 
 - 🔩 <a href="https://github.com/dathuyn">DatxCute</a>: Administrative, game designer for LuckyVN's MMO projects.
 
-- 👾 <a href="https://github.com">wjexia</a>: Well-developed gameplay and balanced mechanics.
+- 👾 <a href="https://github.com/Tun1Kit">kitnef</a>: AI full-stack.
 
 ---
 
