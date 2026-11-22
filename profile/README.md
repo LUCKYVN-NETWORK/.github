@@ -19,7 +19,7 @@
 
 - 🔩 <a href="https://github.com/dathuyn">DatxCute</a>: Administrative, game designer for LuckyVN's MMO projects.
 
-- 👾 <a href="https://github.com/Tun1Kit">kitnef</a>: AI full-stack.
+- 👾 <a href="https://github.com/Tun1Kit">kitnef</a>: Larp vibe coder we added 2 weeks ago
 
 ---
 
