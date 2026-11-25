@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="https://i.imgur.com/fLQKu45.png" alt="LuckyVN Logo" width="140" />
+  <img src="https://i.imgur.com/fLQKu45.png" alt="LuckyVN Logo" width="200" />
   <h1>LuckyVN Network</h1>
   <p><strong>The home of every active project in the <a href="https://luckyvn.com">LuckyVN</a> network</strong></p>
 
@@ -37,7 +37,7 @@
     </td>
     <td align="center" width="180">
       <a href="https://github.com/SunshroomChan"><img src="https://github.com/SunshroomChan.png?size=200" width="88" alt="hoang1454" /><br/><b>hoang1454</b></a><br/>
-      <sub>🌀 Head developer<br/>BedWars</sub>
+      <sub>💤 Semi-inactive<br/>Back-end · Pterodactyl operations</sub>
     </td>
     <td align="center" width="180">
       <a href="https://github.com/StellarSeal"><img src="https://github.com/StellarSeal.png?size=200" width="88" alt="StellarSeal_" /><br/><b>StellarSeal_</b></a><br/>
